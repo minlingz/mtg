@@ -1,3 +1,4 @@
+# Markov text generator
 
 ## Test case 1.1
 * sentence = ["she", "was", "not"], n = 3, randomize=False
